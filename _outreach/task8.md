@@ -1,6 +1,6 @@
 ---
 title: "Peer Mentor at Peer-assisted Learning (PAL) Program"
-collection: outreach
+collection: talks
 type: "talk"
 permalink: https://library.usask.ca/studentlearning/PAL/index.php
 venue: "University of Saskatchewan"
