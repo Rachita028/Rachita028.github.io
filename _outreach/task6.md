@@ -1,6 +1,6 @@
 ---
 title: "Invited speaker for Aligning expectations between mentor and mentee"
-collection: outreach
+collection: talks
 type: "talk"
 permalink: https://neuroscience.ucdavis.edu/Resources-URM
 venue: "Online"
