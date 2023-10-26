@@ -1,6 +1,6 @@
 ---
 title: "STEM Volunteer- SACNAS-Chapter UCD"
-collection: outreach
+collection: talks
 type: "Talk"
 permalink: https://sacnas.ucdavis.edu/
 venue: "Prairie Elementary School"
