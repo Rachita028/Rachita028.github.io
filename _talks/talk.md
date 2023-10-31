@@ -1,7 +1,7 @@
 ---
 title: "Deposition of Fines Entrained in Bitumen-Derived Light Gas Oil on Hydrotreating Catalyst: Impact of Process Parameters"
 collection: talks
-type: "Conference Talk"
+type: "Talk"
 permalink: https://nam.confex.com/nam/2017/meetingapp.cgi/Paper/14035
 venue: "NAM25"
 date: 2017-06-05
