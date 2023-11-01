@@ -1,7 +1,7 @@
 ---
 title: "Let's Talk Science Coordinator"
-collection: talks
-type: "Talk"
+collection: outreach
+type: "Science project demonstrations"
 permalink: https://letstalkscience.ca/outreach/usask
 venue: "University of Saskatchewan"
 date: 2015-1-23
